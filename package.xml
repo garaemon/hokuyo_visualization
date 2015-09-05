@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>hokuyo_visualization</name>
+  <version>0.0.0</version>
+  <description>The hokuyo_visualization package</description>
+  <maintainer email="lueda@todo.todo">lueda</maintainer>
+  <license>TODO</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>multisense_description</build_depend>
+  <run_depend>multisense_description</run_depend>
+  <build_depend>visualization_msgs</build_depend>
+  <run_depend>visualization_msgs</run_depend>
+  <run_depend>jsk_recognition_msgs</run_depend>
+  <export>
+  </export>
+</package>
